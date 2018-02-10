@@ -1,0 +1,9 @@
+c:\users\ztech\documents\visual studio 2015\Projects\controller\controller\bin\Debug\controller.exe.config
+c:\users\ztech\documents\visual studio 2015\Projects\controller\controller\bin\Debug\controller.exe
+c:\users\ztech\documents\visual studio 2015\Projects\controller\controller\bin\Debug\controller.pdb
+c:\users\ztech\documents\visual studio 2015\Projects\controller\controller\obj\Debug\controller.csprojResolveAssemblyReference.cache
+c:\users\ztech\documents\visual studio 2015\Projects\controller\controller\obj\Debug\controller.Form1.resources
+c:\users\ztech\documents\visual studio 2015\Projects\controller\controller\obj\Debug\controller.Properties.Resources.resources
+c:\users\ztech\documents\visual studio 2015\Projects\controller\controller\obj\Debug\controller.csproj.GenerateResource.Cache
+c:\users\ztech\documents\visual studio 2015\Projects\controller\controller\obj\Debug\controller.exe
+c:\users\ztech\documents\visual studio 2015\Projects\controller\controller\obj\Debug\controller.pdb

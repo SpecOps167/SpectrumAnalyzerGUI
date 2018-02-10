@@ -1,0 +1,8 @@
+C:\Users\ZTech\Documents\Visual Studio 2015\Projects\controller\controller\bin\Release\controller.exe.config
+C:\Users\ZTech\Documents\Visual Studio 2015\Projects\controller\controller\bin\Release\controller.exe
+C:\Users\ZTech\Documents\Visual Studio 2015\Projects\controller\controller\bin\Release\controller.pdb
+C:\Users\ZTech\Documents\Visual Studio 2015\Projects\controller\controller\obj\Release\controller.Form1.resources
+C:\Users\ZTech\Documents\Visual Studio 2015\Projects\controller\controller\obj\Release\controller.Properties.Resources.resources
+C:\Users\ZTech\Documents\Visual Studio 2015\Projects\controller\controller\obj\Release\controller.csproj.GenerateResource.Cache
+C:\Users\ZTech\Documents\Visual Studio 2015\Projects\controller\controller\obj\Release\controller.exe
+C:\Users\ZTech\Documents\Visual Studio 2015\Projects\controller\controller\obj\Release\controller.pdb
